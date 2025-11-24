@@ -38,7 +38,7 @@ In the first part, the generated clauses confirm that no two processes can enter
 In the second part, the SAT solver verifies that if two blocks of the same color are removed, it becomes impossible to tile the grid completely with dominos; otherwise, a valid tiling exists.
 For the bonus part, experiments showed that for the given benchmark data, the setting elim = 0 delivered better performance compared to elim = 5 and elim = 10.
 
-## Extention
+## Extension
 [(Back to top)](#table-of-contents)
 
 The algorithm designed for handling the removal of up to two blocks can be extended to support any number of removed blocks by introducing an additional loop and maintaining an appropriate flag.
