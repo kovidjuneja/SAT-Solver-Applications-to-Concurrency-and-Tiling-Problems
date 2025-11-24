@@ -4,7 +4,7 @@
 SAT-Solver_Applications-to-Concurrency-and-Tiling-Problems is a project focused on determining the satisfiability or unsatisfiability of logical formulations arising from concurrency scenarios and domino-tiling problems, using the Lingeling SAT solver.
 
 ## Table of Contents
-- [SAT-Solver-Applications-to-Concurrency-and-Tiling-Problems](#astro_gm_waves)
+- [SAT-Solver-Applications-to-Concurrency-and-Tiling-Problems](#sat-solver-applications-to-concurrency-and-tiling-problems)
 - [Table of Contents](#table-of-contents)
 - [Brief Overview](#brief-overview)
 - [Data Sources](#data-sources)
