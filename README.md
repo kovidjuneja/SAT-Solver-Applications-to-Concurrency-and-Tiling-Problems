@@ -1,3 +1,4 @@
+!Banner[./merged_image.png]
 
 # SAT-Solver-Applications-to-Concurrency-and-Tiling-Problems
 [(Back to top)](#table-of-contents)
